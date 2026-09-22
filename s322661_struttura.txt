@@ -1,0 +1,7 @@
+home.php
+login.php,form:form-login,text:username,password:password,checkbox:ricordami,submit:btn-login
+logout.php
+registrazione.php,form:form-registrazione,text:nome,text:cognome,text:indirizzo,text:username,password:password,password:conferma_password,submit:btn-registra
+inserisci_gatto.php,form:form-inserisci-gatto,text:nome,textarea:descrizione,number:peso,number:eta,select:sesso,select:lunghezza_pelo,text:colore_mantello,text:colore_occhi,text:razza,date:data_arrivo,submit:btn-inserisci
+gatti.php,form:form-prenotazione,hidden:gatti-ids,date:data-visita,select:ora-visita,submit:btn-prenota
+volontariato.php,form:form-volontariato,submit:btn-iscriviti

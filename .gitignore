@@ -1,0 +1,16 @@
+# Traccia e materiale del corso
+progettoSito.txt
+
+# File di sistema Windows / macOS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Cartelle di configurazione degli editor
+.vscode/
+.idea/
+
+# Log e file temporanei
+*.log
+*.tmp
+*.bak
